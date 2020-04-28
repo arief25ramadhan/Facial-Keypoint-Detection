@@ -1,1 +1,7 @@
-# Facial-Keypoint-Detection
+# Facial Keypoint Detection
+
+## Libraries
+* Numpy
+* OpenCV
+* Matplotlib
+* Pandas
