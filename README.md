@@ -8,9 +8,9 @@ This project will be all about defining and training a convolutional neural netw
 * Matplotlib
 * Pytorch
 
-## File explanation
+## File Explanations
 
-The explanations of the project's files are:
+The explanations of each project file are:
 
 * 1.Load and Visualize Data.ipynb: Explore the training and test set to get a general view of the dataset: its size, file type, visualize an example image. This notebook forms our decision on how to preprocess the images.
 
