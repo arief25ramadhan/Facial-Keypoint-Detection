@@ -6,20 +6,21 @@ This project will be all about defining and training a convolutional neural netw
 * Numpy
 * OpenCV
 * Matplotlib
-* Pandas
+* Pytorch
 
-## Workflow
+## File explanation
 
-The workflow of the project is explained by the notebook(.ipynb) files:
+The explanations of the project's files are:
 
-* Load and Visualize Data.ipynb: Explore the training and test set to get a general view of the dataset: its size, file type, visualize an example image. This notebook forms our decision on how to preprocess the images.
+* 1.Load and Visualize Data.ipynb: Explore the training and test set to get a general view of the dataset: its size, file type, visualize an example image. This notebook forms our decision on how to preprocess the images.
 
-* Define the Network Architecture.ipynb: Build a Neural Network model in model.py file, and train the model using the preprocessed dataset.
+* 2.Define the Network Architecture.ipynb: Build a Neural Network model in model.py file, and train the model using the preprocessed dataset.
 
-* Facial Keypoint Detection, Complete Pipeline.ipynb: Use an open-CV pretrained Haar Cascade model for face detection, then draw keypoints on the face/faces using the Neural Network model that we train in the second notebook (2. Define the Network Architecture.ipynb).
+* 3.Facial Keypoint Detection, Complete Pipeline.ipynb: Use an open-CV pretrained Haar Cascade model for face detection, then draw keypoints on the face/faces using the Neural Network model that we train in the second notebook (2. Define the Network Architecture.ipynb).
 
-Furthermore, the complete pipeline of the Facial Keypoints Detector can be viewed by the image below:
+* model.py: Contains the Neural Network model for the keypoint detector trained in the second notebook (2. Define the Network Architecture.ipynb).
 
+* fkd_report: Explain the project dataset, methodology, pipeline, and results,
 
 ## References
 
