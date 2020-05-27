@@ -20,7 +20,7 @@ The explanations of the project's files are:
 
 * model.py: Contains the Neural Network model for the keypoint detector trained in the second notebook (2. Define the Network Architecture.ipynb).
 
-* fkd_report: Explain the project dataset, methodology, pipeline, and results,
+* fkd_report.pdf: Explain the project dataset, methodology, pipeline, and results,
 
 ## References
 
